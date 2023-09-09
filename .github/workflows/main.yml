@@ -15,4 +15,4 @@ jobs:
       with:
         server: 19oi.ru
         username: u19978_a06
-        password: ${{ secrets.ftp_password }}
+        password: 1K2c0Y6s5L
