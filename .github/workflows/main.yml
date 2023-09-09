@@ -15,4 +15,4 @@ jobs:
       with:
         server: 19oi.ru
         username: ${{ secrets.ftp_username }}
-        password: ${{ secrets.ftp_password }} 
+        password: ${{ secrets.ftp_password }}
